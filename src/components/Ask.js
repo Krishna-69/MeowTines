@@ -112,7 +112,7 @@ export default function Ask(props) {
     document.querySelector('.cry-animation-2').classList.add('hidden');
     document.querySelector('.accept-animation').classList.remove('hidden');
     document.querySelector('.buttons').classList.add('hidden');
-    setAskText("Yayy.. Toh baat kra kro ghost nahi! waise 7-8 logo ko bheju ga ye! Dekh lo app💅🏻💅🏻💅🏻!!! ")
+    setAskText("Yayy.. Toh baat kra kro ghost nahi! waise six-seven logon ko bhi bhej diya hai ye link! Dekh lo app💅🏻💅🏻💅🏻!!! one in a meow hoon😎😎!!")
     setEmojiAsk('😍');
     setYesOrNow("Yes");
   }
